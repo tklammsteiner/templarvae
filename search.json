@@ -18,7 +18,7 @@
     "href": "index.html#performance-parameters",
     "title": "Larval density drives thermogenesis and affects microbiota and substrate properties in black soldier fly trials",
     "section": "Performance Parameters",
-    "text": "Performance Parameters\n–&gt; Download data here\n–&gt; Download data here\n\nTable 2. Measured and calculated performance parameters.\n\n\n\n\n\n\n\n\n\nThe peak temperature measurement of 2.5SORBN-2 was identified as an outlier and subsequently removed from the dataset. GR = growth rate, SGR = specific growth rate, FCR = feed conversion rate, WRI = waste reduction index, SR = substrate reduction, ECI = efficiency of conversion of ingested feed, ECD = efficiency of conversion of digested feed."
+    "text": "Performance Parameters\n–&gt; Download data here\n\nTable 2. Measured and calculated performance parameters.\n\n\n\n\n\n\n\n\n\nThe peak temperature measurement of 2.5SORBN-2 was identified as an outlier and subsequently removed from the dataset. GR = growth rate, SGR = specific growth rate, FCR = feed conversion rate, WRI = waste reduction index, SR = substrate reduction, ECI = efficiency of conversion of ingested feed, ECD = efficiency of conversion of digested feed."
   },
   {
     "objectID": "index.html#temperature-profiles",
@@ -32,7 +32,7 @@
     "href": "index.html#larval-bacteriobiota",
     "title": "Larval density drives thermogenesis and affects microbiota and substrate properties in black soldier fly trials",
     "section": "Larval Bacteriobiota",
-    "text": "Larval Bacteriobiota\n–&gt; Download the filtered and rarefied data here\n–&gt; Download the filtered and rarefied ASV table here\n–&gt; Download the filtered and rarefied taxonomy table here\n–&gt; Download the metadata table for larval gut samples here\n\nTable 4. Combined table containing ASV abundances, taxonomy, and metadata for larval gut samples.\n\n\n\n\n\n\n\n\nThe raw sequence data generated for this study can be found in the European Nucleotide Archive (ENA) under the bioproject accession number PRJEB67330."
+    "text": "Larval Bacteriobiota\n–&gt; Download the filtered and rarefied data here)\n–&gt; Download the filtered and rarefied ASV table here\n–&gt; Download the filtered and rarefied taxonomy table here\n–&gt; Download the metadata table for larval gut samples here\n\nTable 4. Combined table containing ASV abundances, taxonomy, and metadata for larval gut samples.\n\n\n\n\n\n\n\n\nThe raw sequence data generated for this study can be found in the European Nucleotide Archive (ENA) under the bioproject accession number PRJEB67330."
   },
   {
     "objectID": "index.html#substrate-bacteriobiota",
